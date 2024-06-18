@@ -1,4 +1,4 @@
-# exam1
+# Crypto-Tracker
 
 A new Flutter project.
 
